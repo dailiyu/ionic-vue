@@ -1,0 +1,7 @@
+{
+  "name": "MyNewProject",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
